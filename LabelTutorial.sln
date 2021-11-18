@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelTutorial.Android", "LabelTutorial.Android\LabelTutorial.Android.csproj", "{A551C572-0AEF-438C-8E28-CCDE1F089B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelTutorial", "LabelTutorial\LabelTutorial.csproj", "{D96A1F27-FFE3-4920-BBCC-AF174685EE02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A551C572-0AEF-438C-8E28-CCDE1F089B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A551C572-0AEF-438C-8E28-CCDE1F089B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A551C572-0AEF-438C-8E28-CCDE1F089B24}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A551C572-0AEF-438C-8E28-CCDE1F089B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A551C572-0AEF-438C-8E28-CCDE1F089B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A551C572-0AEF-438C-8E28-CCDE1F089B24}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D96A1F27-FFE3-4920-BBCC-AF174685EE02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96A1F27-FFE3-4920-BBCC-AF174685EE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96A1F27-FFE3-4920-BBCC-AF174685EE02}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D96A1F27-FFE3-4920-BBCC-AF174685EE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96A1F27-FFE3-4920-BBCC-AF174685EE02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D96A1F27-FFE3-4920-BBCC-AF174685EE02}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83DE0471-C9B4-4BEA-9017-D4166887730E}
+	EndGlobalSection
+EndGlobal
